@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "34668335333",
+    "project_id": "knucklebones-f84d2",
+    "storage_bucket": "knucklebones-f84d2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34668335333:android:d0dbf5157372458dd6c40c",
+        "android_client_info": {
+          "package_name": "com.hawkins.knucklebones"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34668335333-929bq319bb85h2o6nln3o94qbhrqhm5r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKvnj-JxRqMEro3YWadc65bXQyLcdVIEo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "34668335333-929bq319bb85h2o6nln3o94qbhrqhm5r.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "34668335333-bdqkpffnephkgb4i0ltutmb5pntgd0f6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hawkins.knucklebones"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
